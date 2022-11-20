@@ -16,7 +16,7 @@ show(train)
 ```
 
 
-![png](output_2_0.png)
+![png](img/output_2_0.png)
 
 
 
@@ -29,10 +29,10 @@ show(query)
 ```
 
 
-![png](output_4_1.png)
+![png](img/output_4_1.png)
 
 ## The ```geolocalization``` will detects where's the non georeferenced image in the orthophoto
-![png](output_6_0.png)
+![png](img/output_6_0.png)
 
 
 ## Initialize the ```geolocalization```
@@ -51,7 +51,7 @@ Georeferencing done successfully... elapsed time\ 0.191 m
 
 
 ## The ```geolocalization``` detected where's the non georeferenced image in the orthophoto
-![png](output_16_0.png)
+![png](img/output_16_0.png)
 
 
 ```python
