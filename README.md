@@ -29,7 +29,7 @@ show(query)
 ```
 
 
-![png](output_4_0.png)
+![png](output_4_1.png)
 
 ## The ```geolocalization``` will detects where's the non georeferenced image in the orthophoto
 ![png](output_6_0.png)
