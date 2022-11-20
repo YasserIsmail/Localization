@@ -48,7 +48,7 @@ Georeferencing done successfully... elapsed time\ 0.191 m
 
 
 
-The ```geolocalization``` detected where's the non georeferenced image in the orthophoto
+## The ```geolocalization``` detected where's the non georeferenced image in the orthophoto
 ![png](output_16_0.png)
 
 
