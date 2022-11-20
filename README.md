@@ -1,4 +1,4 @@
-# Localization
+# Geo-Localization
 **Georeferencing of the non-georeferenced image based on orthophoto taking into account the different angles of view between them through the mix of computer vision algorithms and GIS libraries.**
 
 ```python
