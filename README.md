@@ -27,6 +27,8 @@ show(train)
 query = rio.open(r'Examples/query.jpg')
 show(query)
 ```
+
+
 ![png](output_4_0.png)
 
 ## The ```geolocalization``` will detects where's the non georeferenced image in the orthophoto
