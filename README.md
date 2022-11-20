@@ -1,5 +1,5 @@
 # Localization
-
+**Georeferencing of the non-georeferenced image based on orthophoto taking into account the different angles of view between them through the mix of computer vision algorithms and GIS libraries.**
 
 ```python
 from localization import geolocalization
@@ -20,7 +20,7 @@ show(train)
 
 
 
-## Read the non georeferenced image
+## Read the non-georeferenced image
 
 
 ```python
